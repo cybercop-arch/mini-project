@@ -1,1 +1,5 @@
 Day 1 Notes: Git Practice
+
+Day 2 Notes: Learned Git Push
+
+Day 3 Notes: Practiced GitHub Collaboration
